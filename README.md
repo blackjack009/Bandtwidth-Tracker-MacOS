@@ -2,7 +2,7 @@
 
 A small macOS menu bar app that tracks network usage in real time. It lives in the
 menu bar and shows live download/upload speed, how much data you've used today, a
-per-interface breakdown, and a weekly/monthly recap — plus a built-in speed test.
+per-interface breakdown, and a weekly/monthly recap plus a built-in speed test.
 
 Written in SwiftUI + AppKit, no third-party dependencies.
 
